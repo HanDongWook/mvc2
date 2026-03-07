@@ -1,0 +1,23 @@
+### Java & Spring Build ###
+**/build/
+**/bin/
+**/out/
+**/.gradle/
+
+### IDE (IntelliJ, VS Code) ###
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+### OS & Temp ###
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+### Spring Boot Specific ###
+**/HELP.md
+**/target/
